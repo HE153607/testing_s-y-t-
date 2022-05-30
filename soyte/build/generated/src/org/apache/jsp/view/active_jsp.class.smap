@@ -1,0 +1,12 @@
+SMAP
+active_jsp.java
+JSP
+*S JSP
+*F
++ 0 active.jsp
+view/active.jsp
+*L
+5,25:44
+30:69,3
+31,29:72
+*E
